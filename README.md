@@ -7,7 +7,7 @@
 
 <h3 align="left">Сошиал хаягууд:</h3>
 <p align="left">
-<a href="https://fb.com/г.ганболд" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ganbold.ganaa.121/" height="30" width="40" /></a>
+<a href="https://fb.com/ganbold.ganaa.121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ganbold.ganaa.121/" height="30" width="40" /></a>
 <a href="https://instagram.com/hot_sauceqq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[hot_sauceqq](https://www.instagram.com/hot_sauceqq/)" height="30" width="40" /></a>
 </p>
 
