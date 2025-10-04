@@ -1,7 +1,6 @@
 <h1 align="center">Сайн байна уу 👋, Намайг Ганболд гэдэг.</h1>
-<h3 align="center">A junior web developer from Mongolia</h3>
+<h3 align="center">A junior web developer</h3>
 
-- 🌱 Миний одоогоор сурж байгаа зүйлс **Expressjs, React, Postgresql**
 
 - 📫 Надтай холбогдох **gnbkk13@gmail.com**
 
